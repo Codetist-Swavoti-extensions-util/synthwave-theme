@@ -1,0 +1,16 @@
+{
+  "name": "Synthwave '84",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#241B2F",
+    "editor.foreground": "#FFFFFF",
+    "sideBar.background": "#241B2F",
+    "activityBar.background": "#1A1523",
+    "tab.activeBackground": "#241B2F"
+  },
+  "tokenColors": [
+    { "name": "Keyword", "scope": ["keyword", "storage"], "settings": { "foreground": "#FF7EDB" } },
+    { "name": "String", "scope": ["string"], "settings": { "foreground": "#F4EEE4" } },
+    { "name": "Function", "scope": ["entity.name.function"], "settings": { "foreground": "#36F9F6" } }
+  ]
+}
